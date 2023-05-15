@@ -1,10 +1,14 @@
+variable "account_id" {
+  type = number
+}
+
 variable "application_name" {
   type        = string
   description = "sanyam_module"
 }
 
 variable "query" {
-  type        = string
+  type        = set(any)
   description = "nrql query"
 }
 
@@ -29,3 +33,6 @@ variable "threshold_duration" {
   type = number
 }
 
+variable "apdex_t" {
+  type = number
+}
