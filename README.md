@@ -10,7 +10,7 @@ The three queries
 
 ![2nd queries](./2nd_query.png)
 
-![3rd queries](./3_query.png)
+![3rd queries](./3rd_query.png)
 
 Destroed the resources(policies)
 
