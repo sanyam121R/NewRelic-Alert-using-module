@@ -6,12 +6,12 @@ I have given in total 3 queries
 
 The three queries
 
-![1st queries](./1st_query.png)
+![1st queries](./Images/1st_query.png)
 
-![2nd queries](./2nd_query.png)
+![2nd queries](./Images/2nd_query.png)
 
-![3rd queries](./3rd_query.png)
+![3rd queries](./Images/3rd_query.png)
 
 Destroed the resources(policies)
 
-![destoried](./destroy.png)
+![destoried](./Images/destroy.png)
