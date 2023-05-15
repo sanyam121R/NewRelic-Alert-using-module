@@ -2,7 +2,7 @@
 
 I have given in total 3 queries
 
-![3 queries](./3_queries.png)
+![3 queries](./Images/3_queries.png)
 
 The three queries
 
